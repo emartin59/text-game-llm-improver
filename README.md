@@ -1,6 +1,6 @@
 # text-game-llm-improver
 
-Code and Models for *"Improving Large Language Models via Self-Play in a Text-Based Game"*, an AI research paper by Eric Martin.
+Code and Models for *"Evolving LLMs through Text-Based Self-Play: Achieving Emergent Performance"*, an AI research paper by Eric Martin.
 
 ## Overview
 
